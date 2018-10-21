@@ -1,5 +1,5 @@
 _repo: The-Story-of-Germ-Life_4962
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,5 +26,6 @@ subjects:
 - !lcsh 'Bacteria'
 - !lcc 'QR'
 - !lcsh 'Bacteriology'
+- GITenberg
 title: The Story of Germ Life
 url: http://www.gutenberg.org/ebooks/4962
